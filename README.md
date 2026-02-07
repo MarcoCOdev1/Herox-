@@ -1,2 +1,2 @@
-# Vynel---
-Official privacy policy for the Discord bot Vynel - 维内尔.
+# Herox
+Official privacy policy for the Discord bot Herox.
